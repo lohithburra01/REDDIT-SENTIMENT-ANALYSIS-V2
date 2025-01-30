@@ -1,4 +1,4 @@
-# Reddit Sentiment Analysis with LLM (Version 2)
+# Reddit Sentiment Analysis with DeepSeek LLM (Version 2)
 
 ## Overview
 This project is an upgraded version of a Reddit sentiment analysis tool that now leverages the power of **Large Language Models (LLMs)** for more intelligent and customizable data extraction and sentiment analysis. Unlike the previous version, which used **PRAW API** for scraping and **VADER** for sentiment analysis, this version utilizes **DeepSeek's LLM** to extract and analyze Reddit data with greater accuracy, flexibility, and cost-efficiency.
